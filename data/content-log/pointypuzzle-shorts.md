@@ -100,6 +100,24 @@ fill in the hook, structure, and takeaway.
 
 ---
 
+## Nobody beats Level 6...
+
+- **Published:** 2026-02-24
+- **Video ID:** 0hp-syEDogs
+- **Duration:** 30s
+- **Hook:** Title card flashes "LEVEL 6. NO HEARTS LOST." with "...impossible?" in red below. Opens on the full Level 6 board with "Level 6." in large white text and "No one's cleared this." in red underneath (first 3s).
+- **Structure:** Single clip, no cuts. Full 30s Level 6 solve at 1x speed. Player clears the entire board without losing a heart. At 27s, a freeze frame of Level 7 fades in with a CTA overlay: "Beat Level 7. / pointypuzzle.com".
+- **VO:** NONE
+- **SFX:** NONE
+- **Overlays:** "Level 6." + "No one's cleared this." (0-3s), freeze frame of Level 7 + "Beat Level 7. / pointypuzzle.com" CTA band (27-30s).
+- **Views:** Too new
+- **Avg View Duration:** Too new
+- **Likes:** TBD | **Comments:** TBD | **Subs:** TBD
+- **What worked / didn't work:** Too early to tell. Curiosity gap title ("Nobody beats Level 6...") + clean solve with no hearts lost. No VO — pure gameplay. CTA teases Level 7 to drive traffic to pointypuzzle.com.
+- **Blueprint:** `shortcut/projects/pointypuzzle/videos/ep02/pipeline/blueprint.json`
+
+---
+
 ## Patterns So Far
 
 | Title Style | Avg Views | Avg View Duration | Notes |

@@ -3,6 +3,7 @@
 **Date:** 2026-02-23
 **Format:** Short (< 60s)
 **Project:** PointyPuzzle
+**Status:** Complete — published 2026-02-24 as ep02 (Video ID: 0hp-syEDogs)
 **Inspired by:** "Wait Until Level 4" had 26s avg view duration (2x other Shorts) and 278 min total watch time — the level progression format is the top performer by every retention metric.
 
 ---

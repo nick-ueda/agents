@@ -69,7 +69,8 @@ final FFmpeg encode.
 Projects live at `../shortcut/projects/[game]/`, each with their own
 style guide and per-episode video folders. Raw clips go in
 `../shortcut/projects/[game]/videos/[ep]/input/`. Final MP4 lands in
-`../shortcut/projects/[game]/videos/[ep]/output/`.
+`../shortcut/projects/[game]/videos/[ep]/output/`. Blueprint JSON lives at
+`../shortcut/projects/[game]/videos/[ep]/pipeline/blueprint.json`.
 
 The Video Editor Agent is responsible for authoring the blueprint JSON
 (Stage 1) and then handing off to the pipeline.
@@ -92,6 +93,12 @@ The Video Editor Agent is responsible for authoring the blueprint JSON
 - `data/briefs/` — content briefs from SMM Agent, read by Video Editor
   Agent; also where Video Editor Agent writes YouTube metadata and
   production notes after a video is complete
+- `data/content-log/` — content logs tracking published videos with both
+  performance data and hand-written annotations. SMM Agent may update
+  performance numbers (views, avg view duration, likes, comments, subs)
+  but must **never overwrite** annotation fields (hook, structure, VO,
+  SFX, overlays, what worked/didn't work) — those are written by
+  Nicholas and the Video Editor Agent
 - `data/tweet-queue.md` — running queue of drafted tweets awaiting
   Nicholas's review and approval
 
