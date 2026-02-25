@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp:*)",
+      "mcp__youtube-analytics__youtube_get_top_videos",
+      "mcp__youtube-analytics__youtube_get_channel_analytics",
+      "mcp__youtube-analytics__youtube_get_traffic_sources",
+      "mcp__youtube-analytics__youtube_get_video_analytics",
+      "mcp__ga4-analytics__ga4_get_overview",
+      "mcp__ga4-analytics__ga4_get_top_pages",
+      "mcp__ga4-analytics__ga4_get_traffic_sources",
+      "mcp__ga4-analytics__ga4_compare_periods",
+      "mcp__youtube-analytics__youtube_get_video_stats",
+      "Bash(head:*)",
+      "Bash(cd /Users/nickueda/Git/shortcut && npm run pipeline -- --project pointypuzzle --video ep02 --skip-manual --from-stage 5 --preview 2>&1)",
+      "Bash(grep:*)",
+      "Bash(cd /Users/nickueda/Git/shortcut && npm run pipeline -- --project pointypuzzle --video ep02 --skip-manual --from-stage 6 --preview 2>&1)",
+      "Bash(cd /Users/nickueda/Git/shortcut && npm run pipeline -- --project pointypuzzle --video ep02 --skip-manual --preview 2>&1)"
+    ]
+  }
+}
